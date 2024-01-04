@@ -30,11 +30,3 @@ body {
         max-height: 200px;
     }
 }
-
-.volume-slider-container {
-    margin-top: 20px;
-}
-
-.volume-slider {
-    width: 100%;
-}
