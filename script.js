@@ -13,7 +13,4 @@ function updateSongInfo() {
 
 setInterval(updateSongInfo, 5000); // Update every 5 seconds
 
-function updateVolume(value) {
-    document.getElementById('radio-player').volume = value / 100;
-    document.getElementById('volume-percentage').innerText = value + '%';
 }
