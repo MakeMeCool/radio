@@ -12,5 +12,3 @@ function updateSongInfo() {
 }
 
 setInterval(updateSongInfo, 5000); // Update every 5 seconds
-
-}
